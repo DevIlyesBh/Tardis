@@ -3,3 +3,10 @@
 
 
 Tunisian Algorithm Language Compiler for Android &amp; Web
+
+#Features &amp; Todo
+-[x] using Unique CodeEditor
+-[x] developing it for Android 
+-[x] developing it for Web
+-[x] Create the compiler
+-[x] Material3 Design Guidelines support
