@@ -11,3 +11,7 @@ Tunisian Algorithm Language Compiler for Android &amp; Web
 - [x] developing it for Web
 - [x] Create the compiler
 - [x] Material3 Design Guidelines support
+# Contributors
+<a href="https://github.com/devilyesbh/Tardis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=devilyesbh/Tardis" />
+</a>
