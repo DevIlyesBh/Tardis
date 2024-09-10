@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.devilyesbh.tardis.app-mergeDebugResources-28:/layout/content_main.xml",
+        "source": "com.devilyesbh.tardis.app-main-31:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.devilyesbh.tardis.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.devilyesbh.tardis.app-main-31:/layout/activity_main.xml"
+    }
+]
